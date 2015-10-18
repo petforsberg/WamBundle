@@ -1,5 +1,5 @@
 {
-    "name": "trismegiste/prolog",
+    "name": "petforsberg/prolog",
     "description": "Warren Abstract Machine for symfony2",
     "type": "symfony-bundle",
     "keywords": ["inference", "engine", "prolog", "symfony2"],
@@ -21,7 +21,7 @@
             "Trismegiste\\WamBundle": ""
         }
     },
-    "target-dir": "Trismegiste/WamBundle",
+    "target-dir": "petforsberg/WamBundle",
     "license": "CC-BY-SA-3.0",
     "version": "1.5.0"
 }
