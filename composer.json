@@ -13,8 +13,8 @@
         "trismegiste/wam-prolog": "dev-master"        
     },
     "require-dev": {
-        "symfony/symfony": ">=2.3.*",
-        "symfony/console": ">=2.3.*"
+        "symfony/symfony": ">=2.3",
+        "symfony/console": ">=2.3"
     },
     "autoload": {
         "psr-0": {
